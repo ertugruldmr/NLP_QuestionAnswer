@@ -1,0 +1,4 @@
+We can't push the model file because  size of the model exceeded the github file limit. 
+You can download the model from this link (study.ipynb):
+	-> [Colab Source Code For code reading] 
+	-> [File Link for download] https://huggingface.co/spaces/ErtugrulDemir/NLP_QuestionAnswering/blob/main/fine_tuned_qa_model.zip

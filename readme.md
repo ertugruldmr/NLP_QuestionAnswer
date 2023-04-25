@@ -15,16 +15,16 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-nlp-questionanswering.hf.space)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1HAzMB5V4Fsf2lJ8EcZjA4zIS9yol_4qE)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
   - [__Explanation of the study__](#explanation-of-the-study)
     - [__(A) Dependencies__](#a-dependencies)
     - [__(B) Dataset__](#b-dataset)
-    - [__(C) Modelling__](#e-modelling)
-    - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
+    - [__(C) Modelling__](#c-modelling)
+    - [__(D) Deployment as web demo app__](#d-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
 
@@ -44,16 +44,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-nlp-questionanswering.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1yVNaOGZiSFPpjsZftSlIYvCEc1jCOgP4"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/NLP_QuestionAnswer/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1HAzMB5V4Fsf2lJ8EcZjA4zIS9yol_4qE"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -63,11 +63,11 @@
 - Description
     - __answer questions__ from context text.
     - __Usage__: write a context text then write a question related the contex text then use the button to answer your question.
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-nlp-questionanswering.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-nlp-questionanswering.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -193,7 +193,7 @@ The project aimed answer the questions which related with context text. The stud
     - Usage: write a context text and a amswer text which related contex text then use the button to get answer by the model.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-nlp-questionanswering.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
